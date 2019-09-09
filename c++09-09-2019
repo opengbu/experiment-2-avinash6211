@@ -1,7 +1,7 @@
                                                    //Avinash Baghel
 	                                                //Roll no:- 19/BHP/006
 	                                               //BSC (HONS) PHYSICS
-	QUESTION 1: To calculate the area of rectangle?
+	
 	
 	#include<iostream>
 	using namespace std;
@@ -20,7 +20,7 @@
 	
 	
 	
-	QUESTION 2: To check the size of variables in bytes?
+	
 	
 	#include <iostream>
 	using namespace std;
@@ -40,7 +40,7 @@
 	
 	
 	
-	Question 3: To find the largest of three numbers?
+	
 	
 	#include<iostream>
 	using namespace std;
@@ -77,7 +77,7 @@
 	
 	
 	
-	QUESTION 4: To find roots of a quadratic numbers?
+
 	
 	#include<iostream>
 	#include<math.h>
